@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hello World 👋
 
-<!--
-**xKaminoko/xKaminoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on cool thingz
+- 🌱 I’m currently learning some cool thingz
+- 👯 I’m looking to collaborate on cool projectz  
+- 🤔 I’m looking for help with 
+- 💬 Ask me about cool thingz
+- 📫 How to reach me: follow
+- 😄 Pronouns: prefer not to say
+- ⚡ Fun fact: I like cool thingz😌
+  
